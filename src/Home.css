@@ -1,0 +1,34 @@
+
+  
+      .container h1 {
+        font-size: 3.3125rem;
+        line-height: 1.15em;
+        color: aquamarine;
+        margin-bottom: 50px;
+        color: white;
+      }
+
+      .container h4 {
+        font-size: 1.125rem;
+        line-height: 1.5em;
+        margin-top: 10px;
+        font-weight: 300;
+        color: white;
+      }
+
+      .container .title {
+        margin-top: 30px;
+        margin-bottom: 25px;
+        min-height: 32px;
+        color: aquamarine;
+        text-decoration: none;
+        font-weight: 700;
+      }
+
+      .about-picture {
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+   
